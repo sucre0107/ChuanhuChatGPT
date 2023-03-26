@@ -136,3 +136,7 @@ dmypy.json
 api_key.txt
 
 auth.json
+
+
+# my gitingore
+test.py
